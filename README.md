@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ali Faliki</h1>
-<h3 align="center">Android Developer from Indonesia</h3>
+<h1>Hi 👋, I'm Ali Faliki</h1>
+<h3>Android Developer from Indonesia</h3>
 
 - 🌱 I’m currently learning **Flutter & Swift**
 
