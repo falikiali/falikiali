@@ -1,5 +1,5 @@
 <h1 align="center">Hello Skrulls 👋, It's me Ali Faliki an Android Developer</h1>
-<h5 align="center">"Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid." ~ <i>Albert Einstein</i></h5>
+<h4 align="center">"Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid." ~ <i>Albert Einstein</i></h4>
 
 - 🌱 I’m currently learning **Flutter & Swift**
 
