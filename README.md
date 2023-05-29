@@ -1,9 +1,7 @@
-<h1 align="center">Hello Skrulls 👋, It's me Ali Faliki an Android Developer</h1>
+<h1 align="center">Hello 👋, It's me Ali Faliki an Android Developer</h1>
 <h4 align="center">"Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid." ~ <i>Albert Einstein</i></h4>
 
-- 🌱 I’m currently learning about **How to Enjoy Life** 
-
-- 📫 How to reach me **alifaliki456@gmail.com**
+📫 How to reach me **alifaliki456@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
